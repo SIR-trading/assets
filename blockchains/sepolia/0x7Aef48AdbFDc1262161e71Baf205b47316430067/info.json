@@ -1,0 +1,9 @@
+{
+    "name": "MockToken",
+    "explorer": "https://sepolia.etherscan.io/address/0x7Aef48AdbFDc1262161e71Baf205b47316430067",
+    "type": "ERC20",
+    "symbol": "METH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7Aef48AdbFDc1262161e71Baf205b47316430067"
+}
