@@ -1,9 +1,0 @@
-{
-    "name": "Chainlink",
-    "explorer": "https://sepolia.etherscan.io/token/0x779877a7b0d9e8603169ddbd7836e478b4624789",
-    "type": "ERC20",
-    "symbol": "LINK",
-    "decimals": 18,
-    "status": "active",
-    "id": "0x779877A7B0D9E8603169DdbD7836e478b4624789"
-}
